@@ -59,7 +59,7 @@ All applicant information is stored locally using:
 
 ## Screenshots
 
-A /Screenshots [folder]([url](https://github.com/Oluwatomi-Omotoso/FlexiSaf-Projects/tree/main/FinalTask/ScreenShots)) has been provided, containing:
+A /Screenshots [folder](https://github.com/Oluwatomi-Omotoso/FlexiSaf-Projects/tree/main/FinalTask/ScreenShots) has been provided, containing:
 
 - CLI interaction examples
 
