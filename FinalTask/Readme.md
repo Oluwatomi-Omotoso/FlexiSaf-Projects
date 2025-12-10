@@ -59,7 +59,7 @@ All applicant information is stored locally using:
 
 ## Screenshots
 
-A /Screenshots folder has been provided, containing:
+A /Screenshots [folder]([url](https://github.com/Oluwatomi-Omotoso/FlexiSaf-Projects/tree/main/FinalTask/ScreenShots)) has been provided, containing:
 
 - CLI interaction examples
 
@@ -89,3 +89,4 @@ No additional setup is required — everything runs locally on the CLI.
 - File handling (read/write/append)
 
 - CLI user experience design
+
