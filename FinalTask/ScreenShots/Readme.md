@@ -2,7 +2,7 @@
 
 ## Confirmation of acceptance
 
-![alt text](<Confirmation of acceptance.png>)
+[screenshot](https://github.com/Oluwatomi-Omotoso/FlexiSaf-Projects/blob/main/FinalTask/ScreenShots/Confirmation%20of%20acceptance.png)
 
 ## Enter Applicant Info
 
