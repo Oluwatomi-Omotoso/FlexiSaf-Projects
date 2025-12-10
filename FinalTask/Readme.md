@@ -71,6 +71,9 @@ A /Screenshots [folder](https://github.com/Oluwatomi-Omotoso/FlexiSaf-Projects/t
 
 - A terminal/command prompt
 
+## Certifications
+A /Certifications [folder](https://github.com/Oluwatomi-Omotoso/FlexiSaf-Projects/tree/main/FinalTask/certificates) has also been provided, containing certificates both for the two soft skills and the introduction to object Oriented course.
+
 **Run Command**
 
     javac Main.java
@@ -89,4 +92,5 @@ No additional setup is required — everything runs locally on the CLI.
 - File handling (read/write/append)
 
 - CLI user experience design
+
 
