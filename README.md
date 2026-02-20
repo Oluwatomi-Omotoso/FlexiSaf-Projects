@@ -15,11 +15,13 @@ Project Descriptions:
 *   Project 3: Understanding Variables and Fields. Using a login system
 *   Project 4: Understanding enums, Class inheritance and OOP by creating an interactive weekly planner
 *   Project 5: Understanding interfaces by creating an hours to day calculator.
-*   Project 6: by creating a simple task manager (to do lists)
-*   Project 7:
+*   Project 6: Creating a simple task manager (to do lists)
+*   Project 7: Converting string to Numbers, and back (This one really tested my limits tbh)
+*   Project 8: Created a larger OOP structure for several types of Staff, and students for a school scenereo
+*   Final Task: I was given the option to select one of several project scopes. I chose the Applicant intake via CLI and built a recursive approach to add applicants, store their details in a text file, and allow for updates and removals of student details.
 
 Technologies Used:
 
 *   Java
 
-Feel free to explore the code and reach out if you have any questions.
+Feel free to explore the code. It's pretty well commented for understanding, but feel free to reach out if you have any questions.
